@@ -1,9 +1,9 @@
 import React, { Component } from 'react'
 import { Card, Icon, Avatar,Row,Col } from 'antd';
-
+import {APIURL} from '../../../constants'
 import reqwest from 'reqwest'
 const count = 3;
-const fakeDataUrl = `https://nodejs.91bquan.com/api/getusers`;
+const fakeDataUrl = `${APIURL}/api/queryall/Product`;
 
 
 
@@ -26,8 +26,8 @@ class Transaction extends Component {
   this.getData((res) => {
     this.setState({
       initLoading: false,
-      data: res.results,
-      list: res.results,
+      data: res.payload,
+      list: res.payload,
     });
   });
 }
@@ -39,6 +39,7 @@ getData = (callback) => {
     method: 'get',
     contentType: 'application/json',
     success: (res) => {
+      console.log(res)
       callback(res);
     },
   });
@@ -49,17 +50,17 @@ getData = (callback) => {
 
   render() {
     const cardList = this.state.list.map((item,index)=>
-
-            (<Col span={8} key={item.id}>
+            (<Col span={8} key={item.key}>
               <Card
+                key={item.key}
                 style={{ width: 300 }}
-                cover={<img alt="example" src="https://gw.alipayobjects.com/zos/rmsportal/JiqGstEfoWAOHiTxclqi.png" />}
+                cover={<img alt="example" src={item.Record.vURL} />}
 
               >
               <Meta
                 avatar={<Avatar src="https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png" />}
-                title={item.email}
-                description={index}
+                title={item.Record.title}
+                description={item.Record.description}
               />
             </Card>
           </Col>)
