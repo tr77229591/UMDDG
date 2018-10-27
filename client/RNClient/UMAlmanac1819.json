@@ -1,0 +1,391 @@
+{
+  "VCALENDAR": [
+    {
+      "VERSION": "2.0",
+      "PRODID": "-//www.marudot.com//iCal Event Maker",
+      "X-WR-CALNAME": "UMAlmanac1819",
+      "CALSCALE": "GREGORIAN",
+      "VTIMEZONE": [
+        {
+          "TZID": "Asia/Shanghai",
+          "TZURL": "http://tzurl.org/zoneinfo-outlook/Asia/Shanghai",
+          "X-LIC-LOCATION": "Asia/Shanghai",
+          "STANDARD": [
+            {
+              "TZOFFSETFROM": "+0800",
+              "TZOFFSETTO": "+0800",
+              "TZNAME": "CST",
+              "DTSTART": "19700101T000000"
+            }
+          ]
+        }
+      ],
+      "VEVENT": [
+        {
+          "DTSTAMP": "20180927T024140Z",
+          "UID": "20180927T024140Z-419687508@marudot.com",
+          "DTSTART;VALUE=DATE": "20180813",
+          "DTEND;VALUE=DATE": "20180818",
+          "SUMMARY": "Orientation Week for New Students"
+        },
+        {
+          "DTSTAMP": "20180927T024140Z",
+          "UID": "20180927T024140Z-539497201@marudot.com",
+          "DTSTART;VALUE=DATE": "20180815",
+          "DTEND;VALUE=DATE": "20180815",
+          "SUMMARY": "Last day of Student Summer Recess "≥
+        },
+        {
+          "DTSTAMP": "20180927T024140Z",
+          "UID": "20180927T024140Z-1265783812@marudot.com",
+          "DTSTART;VALUE=DATE": "20180822",
+          "DTEND;VALUE=DATE": "20180822",
+          "SUMMARY": "First day of 1st semester's classes"
+        },
+        {
+          "DTSTAMP": "20180927T024140Z",
+          "UID": "20180927T024140Z-1381016378@marudot.com",
+          "DTSTART;VALUE=DATE": "20180925",
+          "DTEND;VALUE=DATE": "20180925",
+          "SUMMARY": "The day following Mid-Autumn Festival"
+        },
+        {
+          "DTSTAMP": "20180927T024140Z",
+          "UID": "20180927T024140Z-1079495836@marudot.com",
+          "DTSTART;VALUE=DATE": "20181001",
+          "DTEND;VALUE=DATE": "20181001",
+          "SUMMARY": "National Day of the People's Republic of China"
+        },
+        {
+          "DTSTAMP": "20180927T024140Z",
+          "UID": "20180927T024140Z-1006308200@marudot.com",
+          "DTSTART;VALUE=DATE": "20181002",
+          "DTEND;VALUE=DATE": "20181002",
+          "SUMMARY": "The day following National Day of the People's Republic of China"
+        },
+        {
+          "DTSTAMP": "20180927T024140Z",
+          "UID": "20180927T024140Z-118032390@marudot.com",
+          "DTSTART;VALUE=DATE": "20181017",
+          "DTEND;VALUE=DATE": "20181017",
+          "SUMMARY": "Chung Yeung Festival"
+        },
+        {
+          "DTSTAMP": "20180927T024140Z",
+          "UID": "20180927T024140Z-2133857299@marudot.com",
+          "DTSTART;VALUE=DATE": "20181102",
+          "DTEND;VALUE=DATE": "20181102",
+          "SUMMARY": "All Soul's Day"
+        },
+        {
+          "DTSTAMP": "20180927T024140Z",
+          "UID": "20180927T024140Z-2047774436@marudot.com",
+          "DTSTART;VALUE=DATE": "20181128",
+          "DTEND;VALUE=DATE": "20181128",
+          "SUMMARY": "Last day of 1st semester's classes"
+        },
+        {
+          "DTSTAMP": "20180927T024140Z",
+          "UID": "20180927T024140Z-1397176945@marudot.com",
+          "DTSTART;VALUE=DATE": "20181129",
+          "DTEND;VALUE=DATE": "20181129",
+          "SUMMARY": "Make-up day for Thursday classes"
+        },
+        {
+          "DTSTAMP": "20180927T024140Z",
+          "UID": "20180927T024140Z-1666324355@marudot.com",
+          "DTSTART;VALUE=DATE": "20181130",
+          "DTEND;VALUE=DATE": "20181130",
+          "SUMMARY": "Make-up day for Monday classes"
+        },
+        {
+          "DTSTAMP": "20180927T024140Z",
+          "UID": "20180927T024140Z-1595292722@marudot.com",
+          "DTSTART;VALUE=DATE": "20181201",
+          "DTEND;VALUE=DATE": "20181204",
+          "SUMMARY": "Examination Study Period "
+        },
+        {
+          "DTSTAMP": "20180927T024140Z",
+          "UID": "20180927T024140Z-710446016@marudot.com",
+          "DTSTART;VALUE=DATE": "20181204",
+          "DTEND;VALUE=DATE": "20181219",
+          "SUMMARY": "1st semester's final examinations"
+        },
+        {
+          "DTSTAMP": "20180927T024140Z",
+          "UID": "20180927T024140Z-377884139@marudot.com",
+          "DTSTART;VALUE=DATE": "20181208",
+          "DTEND;VALUE=DATE": "20181208",
+          "SUMMARY": "Immaculate Conception"
+        },
+        {
+          "DTSTAMP": "20180927T024140Z",
+          "UID": "20180927T024140Z-1031670333@marudot.com",
+          "DTSTART;VALUE=DATE": "20181209",
+          "DTEND;VALUE=DATE": "20181209",
+          "SUMMARY": "Contingency plan for final examinations"
+        },
+        {
+          "DTSTAMP": "20180927T024140Z",
+          "UID": "20180927T024140Z-1821315652@marudot.com",
+          "DTSTART;VALUE=DATE": "20181210",
+          "DTEND;VALUE=DATE": "20181210",
+          "SUMMARY": "Special grant for exempt from work by the Chief Executive on 9 March 2017"
+        },
+        {
+          "DTSTAMP": "20180927T024140Z",
+          "UID": "20180927T024140Z-1563681152@marudot.com",
+          "DTSTART;VALUE=DATE": "20181216",
+          "DTEND;VALUE=DATE": "20181216",
+          "SUMMARY": "Contingency plan for final examinations"
+        },
+        {
+          "DTSTAMP": "20180927T024140Z",
+          "UID": "20180927T024140Z-985975315@marudot.com",
+          "DTSTART;VALUE=DATE": "20181219",
+          "DTEND;VALUE=DATE": "20181219",
+          "SUMMARY": "Contingency plan for final examinations"
+        },
+        {
+          "DTSTAMP": "20180927T024140Z",
+          "UID": "20180927T024140Z-526354232@marudot.com",
+          "DTSTART;VALUE=DATE": "20181219",
+          "DTEND;VALUE=DATE": "20190102",
+          "SUMMARY": "Christmas /New Year Recess for students"
+        },
+        {
+          "DTSTAMP": "20180927T024140Z",
+          "UID": "20180927T024140Z-139374314@marudot.com",
+          "DTSTART;VALUE=DATE": "20181220",
+          "DTEND;VALUE=DATE": "20181220",
+          "SUMMARY": "Macao SAR Establishment Day"
+        },
+        {
+          "DTSTAMP": "20180927T024140Z",
+          "UID": "20180927T024140Z-1569046460@marudot.com",
+          "DTSTART;VALUE=DATE": "20181222",
+          "DTEND;VALUE=DATE": "20181222",
+          "SUMMARY": "Winter Solstice"
+        },
+        {
+          "DTSTAMP": "20180927T024140Z",
+          "UID": "20180927T024140Z-2076941695@marudot.com",
+          "DTSTART;VALUE=DATE": "20181224",
+          "DTEND;VALUE=DATE": "20181224",
+          "SUMMARY": "Christmas Eve"
+        },
+        {
+          "DTSTAMP": "20180927T024140Z",
+          "UID": "20180927T024140Z-982720026@marudot.com",
+          "DTSTART;VALUE=DATE": "20181225",
+          "DTEND;VALUE=DATE": "20181225",
+          "SUMMARY": "Christmas Day"
+        },
+        {
+          "DTSTAMP": "20180927T024140Z",
+          "UID": "20180927T024140Z-1171504205@marudot.com",
+          "DTSTART;VALUE=DATE": "20181226",
+          "DTEND;VALUE=DATE": "20181226",
+          "SUMMARY": "Special grant for exempt from work by the Chief Executive on 9 March 2017"
+        },
+        {
+          "DTSTAMP": "20180927T024140Z",
+          "UID": "20180927T024140Z-1665241594@marudot.com",
+          "DTSTART;VALUE=DATE": "20181231",
+          "DTEND;VALUE=DATE": "20181231",
+          "SUMMARY": "Special grant for exempt from work in the afternoon by the Chief Executive on 9 March 2017"
+        },
+        {
+          "DTSTAMP": "20180927T024140Z",
+          "UID": "20180927T024140Z-75317995@marudot.com",
+          "DTSTART;VALUE=DATE": "20190101",
+          "DTEND;VALUE=DATE": "20190101",
+          "SUMMARY": "New Year's Day"
+        },
+        {
+          "DTSTAMP": "20180927T024140Z",
+          "UID": "20180927T024140Z-942747647@marudot.com",
+          "DTSTART;VALUE=DATE": "20190102",
+          "DTEND;VALUE=DATE": "20190102",
+          "SUMMARY": "Release of Academic Reports of Undergraduate Programmes"
+        },
+        {
+          "DTSTAMP": "20180927T024140Z",
+          "UID": "20180927T024140Z-769475404@marudot.com",
+          "DTSTART;VALUE=DATE": "20190102",
+          "DTEND;VALUE=DATE": "20190107",
+          "SUMMARY": "Semester Break"
+        },
+        {
+          "DTSTAMP": "20180927T024140Z",
+          "UID": "20180927T024140Z-1851554654@marudot.com",
+          "DTSTART;VALUE=DATE": "20190107",
+          "DTEND;VALUE=DATE": "20190107",
+          "SUMMARY": "First day of 2nd semester's classes"
+        },
+        {
+          "DTSTAMP": "20180927T024140Z",
+          "UID": "20180927T024140Z-1553478499@marudot.com",
+          "DTSTART;VALUE=DATE": "20190130",
+          "DTEND;VALUE=DATE": "20190213",
+          "SUMMARY": "Lunar New Year Recess for students"
+        },
+        {
+          "DTSTAMP": "20180927T024140Z",
+          "UID": "20180927T024140Z-711694541@marudot.com",
+          "DTSTART;VALUE=DATE": "20190204",
+          "DTEND;VALUE=DATE": "20190204",
+          "SUMMARY": "Special grant for exempt from work in the afternoon by the Chief Executive on 12 March 2018"
+        },
+        {
+          "DTSTAMP": "20180927T024140Z",
+          "UID": "20180927T024140Z-891592602@marudot.com",
+          "DTSTART;VALUE=DATE": "20190205",
+          "DTEND;VALUE=DATE": "20190208",
+          "SUMMARY": "Lunar New Year"
+        },
+        {
+          "DTSTAMP": "20180927T024140Z",
+          "UID": "20180927T024140Z-256501888@marudot.com",
+          "DTSTART;VALUE=DATE": "20190330",
+          "DTEND;VALUE=DATE": "20190401",
+          "SUMMARY": "UM Admission Examination and Joint Admission Examination for Macao Four Higher Education "
+        },
+        {
+          "DTSTAMP": "20180927T024140Z",
+          "UID": "20180927T024140Z-1107855943@marudot.com",
+          "DTSTART;VALUE=DATE": "20190405",
+          "DTEND;VALUE=DATE": "20190405",
+          "SUMMARY": "Ching Ming Festival"
+        },
+        {
+          "DTSTAMP": "20180927T024140Z",
+          "UID": "20180927T024140Z-804170796@marudot.com",
+          "DTSTART;VALUE=DATE": "20190419",
+          "DTEND;VALUE=DATE": "20190419",
+          "SUMMARY": "Good Friday"
+        },
+        {
+          "DTSTAMP": "20180927T024140Z",
+          "UID": "20180927T024140Z-1462497434@marudot.com",
+          "DTSTART;VALUE=DATE": "20190419",
+          "DTEND;VALUE=DATE": "20190423",
+          "SUMMARY": "Easter Recess for students"
+        },
+        {
+          "DTSTAMP": "20180927T024140Z",
+          "UID": "20180927T024140Z-1641864184@marudot.com",
+          "DTSTART;VALUE=DATE": "20190420",
+          "DTEND;VALUE=DATE": "20190420",
+          "SUMMARY": "The day before Easter"
+        },
+        {
+          "DTSTAMP": "20180927T024140Z",
+          "UID": "20180927T024140Z-1120281111@marudot.com",
+          "DTSTART;VALUE=DATE": "20190422",
+          "DTEND;VALUE=DATE": "20190422",
+          "SUMMARY": "Special grant for exempt from work by the Chief Executive on 12 March 2018"
+        },
+        {
+          "DTSTAMP": "20180927T024140Z",
+          "UID": "20180927T024140Z-1619572169@marudot.com",
+          "DTSTART;VALUE=DATE": "20190429",
+          "DTEND;VALUE=DATE": "20190429",
+          "SUMMARY": "Last day of 2nd semester's classes"
+        },
+        {
+          "DTSTAMP": "20180927T024140Z",
+          "UID": "20180927T024140Z-1774122704@marudot.com",
+          "DTSTART;VALUE=DATE": "20190430",
+          "DTEND;VALUE=DATE": "20190430",
+          "SUMMARY": "Make-up day for Friday classes"
+        },
+        {
+          "DTSTAMP": "20180927T024140Z",
+          "UID": "20180927T024140Z-269264121@marudot.com",
+          "DTSTART;VALUE=DATE": "20190501",
+          "DTEND;VALUE=DATE": "20190501",
+          "SUMMARY": "Labour Day"
+        },
+        {
+          "DTSTAMP": "20180927T024140Z",
+          "UID": "20180927T024140Z-434995756@marudot.com",
+          "DTSTART;VALUE=DATE": "20190501",
+          "DTEND;VALUE=DATE": "20190506",
+          "SUMMARY": "Examination Study Period "
+        },
+        {
+          "DTSTAMP": "20180927T024140Z",
+          "UID": "20180927T024140Z-785782182@marudot.com",
+          "DTSTART;VALUE=DATE": "20190506",
+          "DTEND;VALUE=DATE": "20190519",
+          "SUMMARY": "2nd semester's final examinations"
+        },
+        {
+          "DTSTAMP": "20180927T024140Z",
+          "UID": "20180927T024140Z-1885111695@marudot.com",
+          "DTSTART;VALUE=DATE": "20190512",
+          "DTEND;VALUE=DATE": "20190512",
+          "SUMMARY": "The Buddha's Birthday"
+        },
+        {
+          "DTSTAMP": "20180927T024140Z",
+          "UID": "20180927T024140Z-1141038845@marudot.com",
+          "DTSTART;VALUE=DATE": "20190512",
+          "DTEND;VALUE=DATE": "20190512",
+          "SUMMARY": "Contingency plan for final examinations"
+        },
+        {
+          "DTSTAMP": "20180927T024140Z",
+          "UID": "20180927T024140Z-1252861901@marudot.com",
+          "DTSTART;VALUE=DATE": "20190513",
+          "DTEND;VALUE=DATE": "20190513",
+          "SUMMARY": "Special grant for exempt from work by the Chief Executive on 9 March 2017"
+        },
+        {
+          "DTSTAMP": "20180927T024140Z",
+          "UID": "20180927T024140Z-1862528568@marudot.com",
+          "DTSTART;VALUE=DATE": "20190519",
+          "DTEND;VALUE=DATE": "20190519",
+          "SUMMARY": "Contingency plan for final examinations"
+        },
+        {
+          "DTSTAMP": "20180927T024140Z",
+          "UID": "20180927T024140Z-588493490@marudot.com",
+          "DTSTART;VALUE=DATE": "20190601",
+          "DTEND;VALUE=DATE": "20190601",
+          "SUMMARY": "First day of Student Summer Recess"
+        },
+        {
+          "DTSTAMP": "20180927T024140Z",
+          "UID": "20180927T024140Z-343827204@marudot.com",
+          "DTSTART;VALUE=DATE": "20190603",
+          "DTEND;VALUE=DATE": "20190603",
+          "SUMMARY": "Release of Academic Reports of Undergraduate Programmes"
+        },
+        {
+          "DTSTAMP": "20180927T024140Z",
+          "UID": "20180927T024140Z-712036040@marudot.com",
+          "DTSTART;VALUE=DATE": "20190603",
+          "DTEND;VALUE=DATE": "20190603",
+          "SUMMARY": "First day of Summer Term"
+        },
+        {
+          "DTSTAMP": "20180927T024140Z",
+          "UID": "20180927T024140Z-134205097@marudot.com",
+          "DTSTART;VALUE=DATE": "20190607",
+          "DTEND;VALUE=DATE": "20190607",
+          "SUMMARY": "Tuen Ng Festival"
+        },
+        {
+          "DTSTAMP": "20180927T024140Z",
+          "UID": "20180927T024140Z-2052409777@marudot.com",
+          "DTSTART;VALUE=DATE": "20190731",
+          "DTEND;VALUE=DATE": "20190731",
+          "SUMMARY": "Last day of Summer Term"
+        }
+      ]
+    }
+  ]
+}
