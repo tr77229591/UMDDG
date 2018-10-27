@@ -1,0 +1,10 @@
+.divEdit{
+  position: absolute;
+  width: 300px;
+  height: 200px;
+  text-align: center;/
+  top: 50%;
+  left: 50%;
+  margin-left: -150px;
+
+}

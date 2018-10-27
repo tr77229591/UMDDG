@@ -1,0 +1,14 @@
+// import {LOGIN_SUCCESS,LOGOUT} from '../constants'
+
+
+const initialState={
+  currentUser:null
+}
+
+const user = (state=initialState,action={})=>{
+  switch(action.type){
+    default: return state
+  }
+}
+
+export default user
