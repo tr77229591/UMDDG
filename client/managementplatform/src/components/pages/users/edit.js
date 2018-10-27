@@ -28,16 +28,15 @@ class Edit extends Component {
   }
 
   componentDidMount() {
-    // console.log()
     if(this.props.location.state!=null){
       if(this.props.location.state.item!=null){
         this.setState({
-          name:this.props.location.state.item.name,
-          id:this.props.location.state.item.id,
-          avatar:this.props.location.state.item.avatar,
-          studentNo:this.props.location.state.item.studentNo,
-          course:this.props.location.state.item.course,
-          credit:this.props.location.state.item.credit
+          name:this.props.location.state.item.Record.name,
+          id:this.props.location.state.item.Key,
+          avatar:this.props.location.state.item.Record.avatar,
+          studentNo:this.props.location.state.item.Record.studentNo,
+          course:this.props.location.state.item.Record.course,
+          credit:this.props.location.state.item.Record.credit
         })
       }
     }
@@ -61,7 +60,7 @@ class Edit extends Component {
 
 
   handleSubmit(){
-    this.props.postUserUpdate(this.state)
+    this.props.postUserUpdate(this.state,this.props.location.state.item.Key)
   }
 
 

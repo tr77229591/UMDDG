@@ -26,6 +26,7 @@ class Users extends Component {
 
   componentDidMount() {
   this.getData((res) => {
+    console.log(res)
     this.setState({
       initLoading: false,
       data: res.payload,
@@ -76,6 +77,7 @@ handleDisable=(e)=>{
   console.log(e)
 }
 
+// loadMore={loadMore}
 
 
   render() {
@@ -91,8 +93,8 @@ handleDisable=(e)=>{
              className="demo-loadmore-list"
              loading={initLoading}
              itemLayout="horizontal"
-             loadMore={loadMore}
              dataSource={list}
+
              renderItem={item => (
                // <List.Item>
                   <List.Item actions={[
@@ -106,8 +108,8 @@ handleDisable=(e)=>{
                  <Skeleton avatar title={false} loading={item.loading} active>
                    <List.Item.Meta
                      avatar={<Avatar src="https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png" />}
-                     title={item.name}
-                     description={item.course}
+                     title={item.Record.name}
+                     description={item.Record.course}
                    />
                  </Skeleton>
                </List.Item>

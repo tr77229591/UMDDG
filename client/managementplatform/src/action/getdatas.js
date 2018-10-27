@@ -44,12 +44,12 @@ export function postRecharge(data){
   }
 }
 
-export function postUserUpdate(data){
-
+export function postUserUpdate(data,key){
+ console.log(data)
   return dispatch=>{
     axios.post('/api/update',{
       "name":"User",
-      "id":data.studentNo,
+      "id":key,
       "data":data
 
     })
